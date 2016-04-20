@@ -1,0 +1,106 @@
+.wrapper{
+width: 375px;
+}
+nav ul{
+text-align:left;
+padding-left: 0px;
+margin-left: 20px;
+padding-top: 10px;
+}
+nav ul a{
+font-size: 10px;
+}
+.header_lego img{
+float: left;
+width: 290px;
+}
+.header_link{
+padding-right: 10px;
+margin-top: 4px;
+}
+.header_link ul{
+padding-left: 10px;
+}
+.weather{
+float: left;
+}
+.search{
+float: right;
+background-color: #eee8de;
+padding-left: 4px;
+padding-top: 10px;
+padding-right: 4px;
+clear: none;
+margin-top: 27px;
+margin-right: 3px;
+}
+.search input{
+color: #a19488;
+background-color: #faf6f0;
+border-color: #faf6f0;
+padding:4px;
+padding-right: 15px;
+margin-right: 3px;
+}
+.search button{
+width: 30px;
+height: 30px;
+}
+#myCarousel{
+margin-top: 230px;
+}
+#Carousel{
+width: 375px;
+}
+.carousel-indicators{
+bottom:0px;
+padding-left:0px;
+}
+.carousel-inner{
+height: 250px;
+}
+.item img{
+float: none;
+}
+.img_text {
+width: 360px;
+bottom: 0px;
+margin-right: 0px;
+padding-left:20px;
+margin-top: 0px;
+color: white;
+float: none;
+}
+.carousel-control.right{
+right: 0;
+}
+.carousel-control{
+position: absolute;
+top: 0;
+bottom: 113px;
+left: 0;
+}
+#notice{
+padding-left: 17px;
+border-bottom:1px solid #c7bfb7;
+}
+#notice a{
+font-size: 14px;
+color: #6f655b;
+}
+#notice h3{
+padding-left: 20px;
+border-bottom: 0.4px dotted white;
+}
+#notice ul{
+padding-left: 40px;
+}
+.box0 ,.box1 ,.box2 ,.box3,.box4,.box5,.box6,.box7{
+float: left;
+width: 165px;
+margin-right: 10px;
+margin-bottom: 10px;
+}
+table{
+margin-top: 20px;
+}
